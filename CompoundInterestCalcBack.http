@@ -1,0 +1,6 @@
+@CompoundInterestCalcBack_HostAddress = http://localhost:5036
+
+GET {{CompoundInterestCalcBack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
